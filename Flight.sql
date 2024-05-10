@@ -1,0 +1,7 @@
+DROP DATABASE IF EXISTS flight;
+CREATE DATABASE IF NOT EXISTS flight;
+use flight;
+-- DROP TABLE IF EXISTS  users ;
+-- DROP TABLE IF EXISTS membres ;
+-- DROP TABLE IF EXISTS emprunts;
+-- DROP TABLE IF EXISTS livres;
