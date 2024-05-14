@@ -10,3 +10,6 @@
 
 ### diagrame de sequence pour recherche sue un vol
 <img width="452" alt="usecaseRecherche" src="https://github.com/brahimD4/Gestion_Vol/assets/157012028/149a81fc-97f1-42ab-8da6-a02f53c9385c">
+
+
+<img width="790" alt="mavenDependency" src="https://github.com/brahimD4/Gestion_Vol/assets/157012028/13bb0126-e95a-4522-b218-5625959182a1">
